@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  font-family:Helvetica, sans-serif;
+}
+
+.seatgeek{
+  background-color:rgb(255,91,73);
+  font-family:Comic Sans MS;
+}
+
+.bark{
+  background-color:rgb(35,6,6);
+  color:white;
+  font-family: 'Underdog';
+}
+
+.etsy{
+  background-color:rgb(245,100,0);
+  font-family:Georgia;
+}
+
+.amex{
+  background-color:rgb(108,196,238);
+  color:rgb(46,119,187);
+  font-family:Brush Script MT;
+  font-size: 18px;
+}
+
+.google{
+  background-color:rgb(66,133,244);
+  color:rgb(219,68,55);
+  font-family: 'Press Start 2P';
+}
+
+.code{
+  background-color:#5b92e5;
+}
+
+img{
+  border:5px black dashed;
+}
+
+h2:hover{
+  color:red;
+}
+
+div:hover{
+  background-color:grey;
+}
